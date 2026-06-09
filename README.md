@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://istinye.edu.tr">
-    <img src="https://upload.wikimedia.org/wikipedia/tr/b/b3/%C4%B0stinye_%C3%9Cniversitesi_logo.png" alt="İstinye Üniversitesi" width="180"/>
+    <img src="istinye-university-logo.png" alt="İstinye Üniversitesi" width="180"/>
   </a>
 
   # AndroidManifest İzin Denetçisi Aracı
