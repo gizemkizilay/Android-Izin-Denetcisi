@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  izin-denetici-app:
+    build: .
+    container_name: android_izin_denetici
+    volumes:
+      - ./src:/app/src
+    environment:
+      - DEBUG_MODE=True
