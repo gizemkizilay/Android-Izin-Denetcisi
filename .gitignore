@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.apk
+app1/
+app2/
+app3/
+ornek/
