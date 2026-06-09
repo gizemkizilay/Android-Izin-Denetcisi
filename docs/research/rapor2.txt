@@ -1,0 +1,10 @@
+
+==================================================
+ [!] ANDROID MANIFEST IZIN DENETCISI RAPORU
+==================================================
+Toplam Izin Sayisi  : 0
+Normal Izinler      : 0
+Tehlikeli Izinler   : 0
+[*] RISK PUANI      : 0
+==================================================
+
